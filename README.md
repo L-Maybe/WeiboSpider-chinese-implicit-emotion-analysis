@@ -20,7 +20,7 @@ python cookie.py
 python run.py
 ```
 
-## The purpose of this project is to construct Chinese implicit emotion analysis data set. Six basic emotions are used as keywords to crawl data.
+## The purpose of this project is to construct Chinese implicit emotion analysis data set. Six basic emotions are used as keywords to crawl data. Mongodb is used to store crawled data
 
 ## Flow chart for data set construction.
 
